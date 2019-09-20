@@ -1,5 +1,5 @@
 {
-  "name": "first-test",
+  "name": "testesdudanpm",
   "version": "1.0.0",
   "description": "My sublime Nuxt.js project",
   "author": "Camila Eduarda",
@@ -18,7 +18,7 @@
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.16.4"
   },
-  "main": "nuxt.config.js",
+  "main": "components/Button.vue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/caeduarda/first-test.git"
